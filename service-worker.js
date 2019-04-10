@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.563726f22cc44a26e0b280db6ab29215.js"
+  "/musicmap/precache-manifest.6b1ff341ef4e367f00487aa6c7552457.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "MusicMap"});
